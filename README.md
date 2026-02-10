@@ -2,4 +2,5 @@
 github-prompt-engineering-portfolio-W-Dummer created by GitHub Classroom
 
 
-Hello: this is a test
+Hello! My Name is Will Dummer and this is My portfolio
+
