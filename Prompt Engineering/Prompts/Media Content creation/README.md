@@ -2,5 +2,7 @@
 github-prompt-engineering-portfolio-W-Dummer created by GitHub Classroom
 
 
-Hello! My Name is Will Dummer and this is My portfolio
+Media Content Creation:
+
+This prompt focuses on getting sources for any article or media you make.
 
